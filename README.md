@@ -8,8 +8,8 @@
 
 ## Build & Serve
 ```$ npm start```
-- [app](localhost:8765)
-- [bundle visualizer](localhost:9998)
+- `app.bundle.js` served at localhost:8765
+- `[chunk].bundle.js` visualizer served at localhost:9998
 
 ## Stack
 - **ReactJS** - View layer
