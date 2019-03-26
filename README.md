@@ -8,6 +8,8 @@
 
 ## Build & Serve
 ```$ npm start```
+- [app](localhost:8765)
+- [bundle visualizer](localhost:9998)
 
 ## Stack
 - **ReactJS** - View layer
