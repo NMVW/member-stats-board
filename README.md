@@ -1,4 +1,4 @@
-# Poker Leaderboard Frontend
+# Poker Leaderboard Frontend (FWI)
 
 ## Global Dependencies
 ```npm v6.9.0```
